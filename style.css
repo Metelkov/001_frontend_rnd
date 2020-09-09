@@ -1,0 +1,52 @@
+.mine {
+    background-color:rgba(222,184,135, 0.7);
+    width: 90%;
+    height: 800px;
+    margin-left: 5%;
+}
+
+.description {
+    width: 100%;
+    height: 30px;
+    background-color:rgba(255,250,205, 0.5);
+    text-align: center;
+    font-size: 150%;
+    vertical-align: middle;
+}
+
+.main_text {
+    width: 100%;
+    height: 50px;
+    background-color:rgba(255,250,205, 0.5);
+    font-size: 120%;
+}
+
+.formula_description {
+    width: 100%;
+    height: 30px;
+    background-color:rgba(216,192,216, 0.5);
+    font-size: 120%;
+}
+
+.clear_both{
+    clear: both;
+}
+
+.generate_all_field {
+    width: 100%;
+    height: 50px;
+}
+
+.generate_all {
+    height: 30px;
+    background-color:rgba(206,182,206, 0.5);
+    margin-right: 10%;
+    margin-top: 1%;
+}
+
+.get_final_formula{
+    height: 30px;
+    background-color:rgba(206,182,206, 0.5);
+    margin-right: 10%;
+    margin-top: 1%;
+}
